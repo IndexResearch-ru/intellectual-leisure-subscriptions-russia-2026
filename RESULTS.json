@@ -1,0 +1,128 @@
+{
+  "title": "ТОП-10 подписок для интеллектуального досуга и самообразования после работы в 2026 году",
+  "publisher": "IndexResearch",
+  "version": "1.0.0",
+  "status": "PUBLISH_APPROVED_NOT_YET_LIVE",
+  "publicationDecision": "PUBLISH",
+  "cutoffDate": "2026-11-04",
+  "methodologyFrozenAt": "2026-11-05T00:26:54+03:00",
+  "researchQuestion": "Какие русскоязычные подписки на познавательные лекции и курсы лучше подходят для регулярного культурного самообразования после работы с готовыми маршрутами и необязательным сопровождением?",
+  "scope": "Соответствие сценарному запросу по характеристикам, описанным в исследованном корпусе официальных источников; не абсолютное качество лекций",
+  "candidatesConsidered": 12,
+  "criteriaCount": 9,
+  "cellsCount": 108,
+  "scoringMethod": "sum(raw_metric_score[0..10]*weight/10)",
+  "zeroIfUnproven": true,
+  "zeroRuleMeaning": "0 = соответствующее преимущество не подтверждено рассмотренным корпусом; это не доказательство фактического отсутствия",
+  "incompleteCriterionSourceTraceability": true,
+  "unequalCollectionDepth": true,
+  "designChangedAfterInitialResults": true,
+  "affiliateRelationship": "Мария Яковлева — участник партнерской программы Admitad Синхронизации (раскрыто в ранее опубликованном исследовании)",
+  "affiliateUrlSource": "Previously published IndexResearch RU README and RU site, previously filled from XLSX; original XLSX not freshly reopened this turn",
+  "approvedBy": "Инициатор выпуска, прямое поручение перевести в PUBLISH 2026-11-05",
+  "calibration": {
+    "n": 5000,
+    "firstPlaceRetainedCount": 4977,
+    "note": "Sensitivity of fixed candidate scores to weights; not independent evidence quality certification"
+  },
+  "ranking": [
+    {
+      "position": 1,
+      "candidate_id": "C01",
+      "participant": "Синхронизация",
+      "scoreExact": 83.0,
+      "scoreRounded": 83,
+      "sourceReviewDepth": "TARGET_DEEP_CHECK_OFFICIAL"
+    },
+    {
+      "position": 2,
+      "candidate_id": "C03",
+      "participant": "Правое полушарие Интроверта",
+      "scoreExact": 76.6,
+      "scoreRounded": 77,
+      "sourceReviewDepth": "COMPETITOR_SPOTCHECK_OFFICIAL"
+    },
+    {
+      "position": 3,
+      "candidate_id": "C02",
+      "participant": "Level One Plus",
+      "scoreExact": 69.8,
+      "scoreRounded": 70,
+      "sourceReviewDepth": "COMPETITOR_SPOTCHECK_OFFICIAL_PRICE_UNKNOWN"
+    },
+    {
+      "position": 4,
+      "candidate_id": "C05",
+      "participant": "Радио Arzamas",
+      "scoreExact": 67.0,
+      "scoreRounded": 67,
+      "sourceReviewDepth": "COMPETITOR_SPOTCHECK_OFFICIAL"
+    },
+    {
+      "position": 5,
+      "candidate_id": "C19",
+      "participant": "Лекторий Достоевский",
+      "scoreExact": 56.2,
+      "scoreRounded": 56,
+      "sourceReviewDepth": "STEP3_LOWER_BOUND_NOT_REVALIDATED"
+    },
+    {
+      "position": 6,
+      "candidate_id": "C10",
+      "participant": "Альпина.Плюс",
+      "scoreExact": 54.6,
+      "scoreRounded": 55,
+      "sourceReviewDepth": "STEP3_LOWER_BOUND_NOT_REVALIDATED"
+    },
+    {
+      "position": 7,
+      "candidate_id": "C17",
+      "participant": "Lectr",
+      "scoreExact": 50.2,
+      "scoreRounded": 50,
+      "sourceReviewDepth": "STEP3_LOWER_BOUND_NOT_REVALIDATED"
+    },
+    {
+      "position": 8,
+      "candidate_id": "C06",
+      "participant": "Curiosophy",
+      "scoreExact": 48.8,
+      "scoreRounded": 49,
+      "sourceReviewDepth": "STEP3_LOWER_BOUND_NOT_REVALIDATED"
+    },
+    {
+      "position": 9,
+      "candidate_id": "C18",
+      "participant": "Медиатека Masters",
+      "scoreExact": 47.6,
+      "scoreRounded": 48,
+      "sourceReviewDepth": "STEP3_LOWER_BOUND_NOT_REVALIDATED"
+    },
+    {
+      "position": 10,
+      "candidate_id": "C04",
+      "participant": "Нефиктивное образование",
+      "scoreExact": 46.8,
+      "scoreRounded": 47,
+      "sourceReviewDepth": "STEP3_LOWER_BOUND_NOT_REVALIDATED"
+    },
+    {
+      "position": 11,
+      "candidate_id": "C16",
+      "participant": "Прямая речь — видеоархив",
+      "scoreExact": 41.6,
+      "scoreRounded": 42,
+      "sourceReviewDepth": "STEP3_LOWER_BOUND_NOT_REVALIDATED"
+    },
+    {
+      "position": 12,
+      "candidate_id": "C20",
+      "participant": "Русская Академия — Академическая подписка",
+      "scoreExact": 30.4,
+      "scoreRounded": 30,
+      "sourceReviewDepth": "STEP3_LOWER_BOUND_NOT_REVALIDATED"
+    }
+  ],
+  "plannedSiteUrl": "https://indexresearch.ru/reports/intellectual-leisure-subscriptions-russia-2026/",
+  "plannedCanonicalRepositoryUrl": "https://github.com/IndexResearch-ru/intellectual-leisure-subscriptions-russia-2026"
+}

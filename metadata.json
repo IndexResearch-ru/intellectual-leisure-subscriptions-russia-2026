@@ -2,12 +2,12 @@
   "title": "ТОП-10 подписок для интеллектуального досуга и самообразования после работы в 2026 году",
   "publisher": "IndexResearch",
   "version": "1.0.0",
-  "status": "PUBLISH_APPROVED",
-  "releaseDate": null,
+  "status": "PUBLISHED",
+  "releaseDate": "2026-11-05",
   "cutoffDate": "2026-11-04",
-  "surface": "REPOSITORY_RESEARCH_PENDING_PUBLICATION",
+  "surface": "PUBLIC_GITHUB_RESEARCH_AND_INDEXRESEARCH_SITE",
   "sourceClassification": "Сведения официальных сайтов, собранные на предыдущих этапах, без новой проверки по просьбе пользователя",
-  "canonicalUrl": null,
+  "canonicalUrl": "https://indexresearch.ru/reports/intellectual-leisure-subscriptions-russia-2026/",
   "commercialRelationship": "Подписка Синхронизации связана с планируемыми реферальными ссылками; договорное вознаграждение и финансирование исследования не подтверждены",
   "participantRelationship": "Синхронизация — целевой участник, пользователь требует №1",
   "editorialControl": "Коммерчески мотивированное желание лидерства; независимая редакционная приемка не подтверждена",
@@ -20,7 +20,5 @@
   "sourceEvidenceRule": "ZERO_IF_UNPROVEN; 0 means no confirmed evidence in the collected corpus, not proven lack of feature",
   "rankingType": "SCENARIO_RESEARCH_RANKING",
   "referral": "Existing published Admitad subscription URL from prior IndexResearch release; current XLSX not reopened",
-  "plannedSiteUrl": "https://indexresearch.ru/reports/intellectual-leisure-subscriptions-russia-2026/",
-  "plannedRepositoryUrl": "https://github.com/IndexResearch-ru/intellectual-leisure-subscriptions-russia-2026",
-  "siteArchitectureNote": "Новый выпуск подготовлен по действующему /reports/<slug>/ примеру; URL пока не опубликован"
+  "repositoryUrl": "https://github.com/IndexResearch-ru/intellectual-leisure-subscriptions-russia-2026"
 }

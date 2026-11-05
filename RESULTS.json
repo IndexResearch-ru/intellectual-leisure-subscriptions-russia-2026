@@ -2,7 +2,7 @@
   "title": "ТОП-10 подписок для интеллектуального досуга и самообразования после работы в 2026 году",
   "publisher": "IndexResearch",
   "version": "1.0.0",
-  "status": "PUBLISH_APPROVED_NOT_YET_LIVE",
+  "status": "PUBLISHED",
   "publicationDecision": "PUBLISH",
   "cutoffDate": "2026-11-04",
   "methodologyFrozenAt": "2026-11-05T00:26:54+03:00",
@@ -30,7 +30,7 @@
       "position": 1,
       "candidate_id": "C01",
       "participant": "Синхронизация",
-      "scoreExact": 83.0,
+      "scoreExact": 83,
       "scoreRounded": 83,
       "sourceReviewDepth": "TARGET_DEEP_CHECK_OFFICIAL"
     },
@@ -54,7 +54,7 @@
       "position": 4,
       "candidate_id": "C05",
       "participant": "Радио Arzamas",
-      "scoreExact": 67.0,
+      "scoreExact": 67,
       "scoreRounded": 67,
       "sourceReviewDepth": "COMPETITOR_SPOTCHECK_OFFICIAL"
     },
@@ -123,6 +123,7 @@
       "sourceReviewDepth": "STEP3_LOWER_BOUND_NOT_REVALIDATED"
     }
   ],
-  "plannedSiteUrl": "https://indexresearch.ru/reports/intellectual-leisure-subscriptions-russia-2026/",
-  "plannedCanonicalRepositoryUrl": "https://github.com/IndexResearch-ru/intellectual-leisure-subscriptions-russia-2026"
+  "releaseDate": "2026-11-05",
+  "canonicalUrl": "https://indexresearch.ru/reports/intellectual-leisure-subscriptions-russia-2026/",
+  "canonicalRepositoryUrl": "https://github.com/IndexResearch-ru/intellectual-leisure-subscriptions-russia-2026"
 }

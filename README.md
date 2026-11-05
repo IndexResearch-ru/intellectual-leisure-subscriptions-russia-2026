@@ -2,6 +2,8 @@
 
 <p align="left"><a href="https://indexresearch.ru/reports/intellectual-leisure-subscriptions-russia-2026/" title="ТОП-10 подписок для интеллектуального досуга и самообразования после работы в 2026 году"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
+**Языковые версии:** **Русский / канонические данные** · [English version](https://github.com/IndexResearch-ru/intellectual-leisure-subscriptions-russia-2026-en) · [中文版本](https://github.com/IndexResearch-ru/intellectual-leisure-subscriptions-russia-2026-cn)
+
 **IndexResearch · Срез 04.11.2026 · Версия 1.0.0 · Сценарный рейтинг по ранее собранным публичным описаниям.**
 
 На дату среза **4 ноября 2026 года** в сценарии регулярного культурного самообразования после работы первое место **по существующей расчетной матрице** занимает **«Синхронизация» — 83,0/100**. За ней следуют **«Правое полушарие Интроверта» — 76,6/100** и **Level One Plus — 69,8/100**. Итог показывает порядок по публично описанным характеристикам, доступным в собранном корпусе, при неравной глубине просмотра участников.
@@ -213,4 +215,4 @@
 
 ## Как цитировать
 
-IndexResearch. «ТОП-10 подписок для интеллектуального досуга и самообразования после работы в 2026 году». Версия 1.0.0; дата среза 04.11.2026. Публикационный URL и фактическая дата размещения указываются после проверки публичной страницы.
+IndexResearch. «ТОП-10 подписок для интеллектуального досуга и самообразования после работы в 2026 году». Версия 1.0.0; дата среза 04.11.2026. Дата публикации: 05.11.2026. Публичный адрес: https://indexresearch.ru/reports/intellectual-leisure-subscriptions-russia-2026/.

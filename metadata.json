@@ -20,5 +20,8 @@
   "sourceEvidenceRule": "ZERO_IF_UNPROVEN; 0 means no confirmed evidence in the collected corpus, not proven lack of feature",
   "rankingType": "SCENARIO_RESEARCH_RANKING",
   "referral": "Existing published Admitad subscription URL from prior IndexResearch release; current XLSX not reopened",
-  "repositoryUrl": "https://github.com/IndexResearch-ru/intellectual-leisure-subscriptions-russia-2026"
+  "repositoryUrl": "https://github.com/IndexResearch-ru/intellectual-leisure-subscriptions-russia-2026",
+  "step8Status": "PENDING_INDEPENDENT_EVIDENCE_TRACE_REVIEW",
+  "step8RegistryCheckedAt": "2026-11-05",
+  "step8AuditMethod": "GitHub main source readback, existing site CI/Pages evidence, live GAEO registry; browser and final redirections not claimed"
 }
